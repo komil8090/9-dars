@@ -1,0 +1,63 @@
+div {
+    font-size: 52px;
+}
+
+.qator-1{
+    background-color: chartreuse;
+    text-align: center;
+    padding: 30px;
+}
+
+.a{
+    background-color: dimgray;
+    width: 33%;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.b{
+    background-color: aqua;
+    width: 34%;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.d{
+    background-color: blue;
+    width: 33%;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.qator-2{
+    display: flex;
+}
+
+.qator-3{
+    background-color: cornflowerblue;
+    display: flex;
+    gap: 45px;
+    padding: 150px;
+    justify-content: center;
+}
+
+.footer1{
+    background-color: aliceblue;
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.footer2{
+    background-color: aliceblue;
+    width: 20;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.footer3{
+    background-color: aliceblue;
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+}
